@@ -1,0 +1,30 @@
+{
+  "name": "kubectx",
+  "version": "1.0.0",
+  "description": "Switch between Kubernetes contexts",
+  "engines": {
+    "node": ">=8"
+  },
+  "bin": {
+    "kubectx": "./kubectx.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fgribreau/kubectx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fgribreau/kubectx/issues"
+  },
+  "homepage": "https://github.com/fgribreau/kubectx",
+  "keywords": [
+    "kubernetes",
+    "cli",
+    "contexts"
+  ],
+  "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^0.7.0",
+    "inquirer": "^3.2.1"
+  }
+}
