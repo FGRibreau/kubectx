@@ -1,8 +1,14 @@
 # kubectx
 
-kubectx is an utility to manage and switch between kubectl contexts.
+Fastest switch between Kubernetes contexts 🏎.
 
 ![kubectx](/docs/kubectx.gif)
+
+### Setup
+
+```bash
+npm i kubectx -g
+```
 
 ### Usage
 
