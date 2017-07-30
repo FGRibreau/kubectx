@@ -1,5 +1,11 @@
 # kubectx
 
+:star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star:
+
+**Checkout [kubectx-rs](https://github.com/FGRibreau/kubectx-rs) the rust equivalent ([smaller and faster](https://twitter.com/FGRibreau/status/890998705100292096)) with [pre-compiled binairies](https://github.com/FGRibreau/kubectx-rs)**.
+
+:star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star::star:
+
 Fastest switch between Kubernetes contexts 🏎.
 
 ![kubectx](/docs/kubectx.gif)
