@@ -31,7 +31,7 @@ npm i kubectx -g
 
 I wish I could find an [inquirer](https://github.com/SBoudrias/Inquirer.js)-like library in Rust and rewrite this little tool in Rust instead.
 
-- [ ] rewrite in Rust
+- [x] rewrite in Rust
 - [ ] support namespace switch as well (kubens)
 
 #### Related work
