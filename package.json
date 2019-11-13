@@ -24,7 +24,7 @@
   "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com/)",
   "license": "MIT",
   "dependencies": {
-    "execa": "^0.7.0",
+    "execa": "^3.3.0",
     "inquirer": "^3.2.1"
   }
 }
