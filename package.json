@@ -25,6 +25,6 @@
   "license": "MIT",
   "dependencies": {
     "execa": "^0.7.0",
-    "inquirer": "^3.2.1"
+    "inquirer": "^7.0.3"
   }
 }
